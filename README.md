@@ -2,7 +2,7 @@
 
 L'objectif final de ce projet est de réaliser une interface de simulation du mouvement d'une particule chargée dans des champs E et B croisés. Comme ceci :
 
-![Interface](https://gitlab-student.centralesupelec.fr/2019bodinv/projet-particule-e-b/blob/PaulB/Maquette_Projet.pdf)
+![project-mock-up-1](https://user-images.githubusercontent.com/98262820/152623128-efa74b70-b5b3-41d9-b670-92fd6df2969e.png)
 
 
 ## Le problème d'une particule dans un champ E/B :
